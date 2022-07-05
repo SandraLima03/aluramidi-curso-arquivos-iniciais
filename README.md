@@ -1,6 +1,5 @@
-#Projeto do curso JavaScript da Alura.
-
-#Construindo um instrumento musical de interface gráfica com JavaScript.
+# Projeto do curso JavaScript da Alura.
+## Construindo um instrumento musical de interface gráfica com JavaScript.
 
 ![image](https://user-images.githubusercontent.com/104464892/177359818-0a0b85eb-d8b8-4f86-9aca-0e3a81e43fa6.png)
 
